@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.star.M_Print&apos; to &apos;Square&apos;&#x0D;&#x0A;- Original project: &apos;ExtraAssignment&apos;&#x0D;&#x0A;- Original element: &apos;com.star.M_Print&apos;&#x0D;&#x0A;- Renamed element: &apos;com.star.Square&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;M_Print&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.star{M_Print.java[M_Print" matchStrategy="1" name="Square" qualified="false" references="true" similarDeclarations="false" stamp="1657188137416" textual="false" version="1.0"/>
+</session>
